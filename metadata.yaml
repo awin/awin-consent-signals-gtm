@@ -1,0 +1,19 @@
+homepage: "https://www.awin.com"
+versions:
+  # Latest version 
+  - sha: bac9721ba64639816c370def46171750dd32fb04
+  changeNotes: Added LICENSE file.
+
+  # Older versions
+  - sha: 9e1390f31bedc101a60ae8666e19f90019d80acd
+  changeNotes: minor change, update tool tips
+  - sha: a2b672f034038bf04dc3da0b9d646abe6b6ac0ec
+  changeNotes: Create metadata.yaml
+    - sha: 5542a4c2fb9acbe968573e1c988cd882f72fc943
+  changeNotes: Update template.tpl, add categories
+  - sha: 00b5025f27f62a35195139e8b037376d506868d4
+  changeNotes: Update README.md, add MasterTag plugins disclaimer
+  - sha: 1b80f5129d69acc3c27a0df72c3581def9f3b029
+  changeNotes: Initial release.
+  
+  
