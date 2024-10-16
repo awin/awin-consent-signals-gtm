@@ -1,9 +1,9 @@
 homepage: "https://www.awin.com"
+documentation: "https://wiki.awin.com/index.php/Consent_Frameworks_for_Advertisers"
 versions:
   # Latest version 
   - sha: bac9721ba64639816c370def46171750dd32fb04
   changeNotes: Added LICENSE file.
-
   # Older versions
   - sha: 9e1390f31bedc101a60ae8666e19f90019d80acd
   changeNotes: minor change, update tool tips
@@ -15,5 +15,3 @@ versions:
   changeNotes: Update README.md, add MasterTag plugins disclaimer
   - sha: 1b80f5129d69acc3c27a0df72c3581def9f3b029
   changeNotes: Initial release.
-  
-  
