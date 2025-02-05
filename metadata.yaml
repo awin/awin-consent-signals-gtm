@@ -1,10 +1,12 @@
 homepage: "https://www.awin.com"
-documentation: "https://wiki.awin.com/index.php/Consent_Frameworks_for_Advertisers"
+documentation: "https://developer.awin.com/docs/gtm-consent"
 versions:
   # Latest version 
+  - sha: 83e57770266ca7510842c6d52cc25d76fbf0f42c
+    changeNotes: Add plugin identifier on AWIN.Tracking object. Update Documentation link.
+  # Older versions
   - sha: 78251c4d503e2a4e501e34fdefaea7d4971dc72a
     changeNotes: Add terms of service, make minor file format amendments.
-  # Older versions
   - sha: bac9721ba64639816c370def46171750dd32fb04
     changeNotes: Added LICENSE file.
   - sha: 9e1390f31bedc101a60ae8666e19f90019d80acd

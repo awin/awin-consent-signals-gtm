@@ -13,6 +13,7 @@ const version = '1.0.0';
 var AWIN = awinObjectAfterConsent ||  {};
 AWIN.Tracking = AWIN.Tracking || {};
 AWIN.Tracking.AdvertiserConsent = false;
+AWIN.Tracking.gtmConsentSignals = '_gtmConsentSignalsPlugin_' + version;
 
 //if AWIN object is not defined on initialization, then write it on window
 if (!AWIN.Tracking.Consent) {
